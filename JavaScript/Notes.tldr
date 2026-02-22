@@ -205,9 +205,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 208.3176102654506,
-			"y": -204.9387938360692,
-			"z": 0.5162536712801301,
+			"x": 711.3818734973086,
+			"y": -2.256624014268823,
+			"z": 0.5471788508187831,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -383,9 +383,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:8NmQUUyNtlAndwM0S6z_9"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -1074,7 +1072,7 @@
 		{
 			"meta": {},
 			"id": "page:page",
-			"name": "Page 1",
+			"name": "1. Introduction",
 			"index": "a1",
 			"typeName": "page"
 		},
@@ -1131,15 +1129,12 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:geo": "rectangle",
-				"tldraw:color": "grey",
-				"tldraw:size": "m",
-				"tldraw:font": "draw"
+				"tldraw:color": "black"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -1149,8 +1144,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1297.5999755859375,
-				"h": 597.6000366210938
+				"w": 1148,
+				"h": 606
 			},
 			"insets": [
 				false,
@@ -1165,9 +1160,9 @@
 			"isChatting": false,
 			"highlightedUserIds": [],
 			"isFocused": true,
-			"devicePixelRatio": 1.25,
+			"devicePixelRatio": 1,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": true,
+			"isHoveringCanvas": false,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
