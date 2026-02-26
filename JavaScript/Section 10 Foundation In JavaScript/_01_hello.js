@@ -18,7 +18,7 @@ console.table({web_browser:"JavaScript" , machine_learning:"Python"}); // This i
 
 const : The const keyword is used to declare a block-scoped constant in JavaScript. Constants declared with const cannot be re-assigned and must be initialized at the time of declaration.
 
-const --> constant variable where duplication is not allowed and value cannot be changed.--> for constants decalaration.
+const --> constant is a variable where duplication is not allowed and value cannot be changed.--> for constants decalaration.
 
 variables are of 2 types : var and let
 
