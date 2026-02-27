@@ -17,6 +17,7 @@ console.log(firstname);
 console.log(middlename);
 console.log(lastname);
 
+// STRING -->
 
 let myStringOne = "hello"
 let username = "chinmay"
