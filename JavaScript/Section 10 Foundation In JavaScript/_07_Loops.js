@@ -1,9 +1,7 @@
-/*
-Loops in javaScript are of 3 types :
-    1. For Loop
-    2. While Loop
-    3. Do-While Loop
-*/
+/*      Loops in javaScript are of 3 types :
+                1. For Loop
+                2. While Loop
+                3. Do-While Loop                */
 
 // write a code which calculate the sum of the numbers from 1 to 5
 
@@ -16,7 +14,7 @@ for (i; i <=5; i++) {
 }
 console.log(`the sum using for loop is ${for_sum}`);
 
-// Using while Loop
+// Using while Loop --> 
 
 let while_sum = 0
 let j = 0
@@ -26,7 +24,7 @@ while (j<=5) {
 }
 console.log(`the sum using while loop is ${while_sum}`);
 
-// using do-while loop
+// using do-while loop -->
 
 let DoWhile_sum = 0
 let k = 0

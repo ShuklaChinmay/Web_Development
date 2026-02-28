@@ -7,7 +7,6 @@ if(num1>num2){
 }else{
     console.log(`${num1} is not greater than ${num2}`);
 }
-
 console.log("i am a regular bottom code");
 
 // check whether if a string is equal to another string:
@@ -25,11 +24,9 @@ if (username1 == username2) {
 
 let num3 = "45"
 if (typeof(num3) == "number") {
-    console.log("it is a number");
-    
+    console.log("it is a number");    
 } else {
     console.log("not a number");
-    
 }
 
 // checks if the array is empty or not.
