@@ -47,6 +47,7 @@ class Car extends Vehicle{
     }
 }
 
+
 let myCar = new Car("tata" , "harrier")
 console.log(myCar.start());
 console.log(myCar.drive());
