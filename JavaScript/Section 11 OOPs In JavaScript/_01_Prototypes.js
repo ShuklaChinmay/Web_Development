@@ -1,3 +1,5 @@
+//the purpose of a prototype in JavaScript is To create new variables To define properties and methods that can be shared by all instances of an object
+
 let computer = { cpu: 12}
 let hp = {screen: "HD"}
 let JohnHardware = {}

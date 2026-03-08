@@ -111,6 +111,8 @@ class Calculator{
 
 // Getter and Setter
 
+// Getters are used to change the class name, and setters are used to define private properties Getters are used to create methods, and setters are used to define constants Getters are used to fetch data, and setters are used to modify data, providing a way to control access to object properties.
+
 class Employee{
     #salary;
     constructor(name , salary){
@@ -139,3 +141,4 @@ let emp = new Employee("john",-50000);
 // console.log(emp.salary);
 // emp.salary = -60000
 
+// Super is the keywords used to access the parent class in a derived class in JavaScript.
