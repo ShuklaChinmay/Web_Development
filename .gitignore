@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+Django/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+
+# Environment variables
+.env
+
+# VS Code (optional but recommended)
+.vscode/
+
+# OS files
+.DS_Store
